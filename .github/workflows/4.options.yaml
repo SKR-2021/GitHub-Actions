@@ -1,4 +1,4 @@
-name: Timeout Example:
+name: Timeout Example
 
 on: [push]
 concurrency:
